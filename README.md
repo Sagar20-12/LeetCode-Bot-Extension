@@ -139,14 +139,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact Me
-
-- **Email:** [sahilverma.webdev@gmail.com](mailto:sahilverma.webdev@gmail.com)
-- **Portfolio:** [sahilverma.dev](https://sahilverma.dev/)
-- **GitHub:** [@sahilverma-dev](https://github.com/sahilverma-dev)
-- **Twitter:** [@sahilverma_dev](https://twitter.com/sahilverma_dev)
-- **LinkedIn:** [sahilverma-dev](https://www.linkedin.com/in/sahilverma-dev/)
-
 ## Acknowledgments
 
 - [Google Chrome](https://www.google.com/chrome/) for providing the Chrome Extension platform.
